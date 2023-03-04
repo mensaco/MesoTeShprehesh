@@ -9,7 +9,7 @@ const Tekstet = {
     },
     "156.webp": {
         "title":"Fëmijët lozonjarë",
-        "text": "Në këtë ilustrim duken dy fëmijë duke luajtur në natyrë, në një livadh me bar të blertë e me hurdha të vogla balte. Të dy fëmijët qëndrojnë me duart e tyre përtokë dhe këmbët përpjetë kah qielli i kaltër. Ata kanë përbaltur petkat e tyre duke luajtur."
+        "text": "Në këtë ilustrim duken dy fëmijë duke luajtur në natyrë, në një livadh me bar të blertë e me hurdha të vogla balte. Të dy fëmijët qëndrojnë me duart e tyre përtokë dhe këmbët përpjetë kah qielli i kaltër. Ata kanë përbaltur rrobat e tyre duke luajtur."
     },
     "158.png": {
         "title":"Çupat modele",
@@ -25,7 +25,7 @@ const Tekstet = {
     },
     "161.webp": {
         "title":"Aeroplani i kuq",
-        "text": "Këtu kemi të ilustruar një aeroplan i kuq me helikë, të ngjashëm me ata nga lufta e dytë botërore. Aeroplani ka krahë të dyfishtë dhe në ulëse nuk ka pilot. Në bishtin e aeroplanit është shkruar shkronja B. Mbase është nistorja e emrit të pilotit."
+        "text": "Këtu kemi të ilustruar një aeroplan i kuq me helikë, të ngjashëm me ata nga Lufta e Dytë Botërore. Aeroplani ka krahë të dyfishtë dhe në ulëse nuk ka pilot. Në bishtin e aeroplanit është shkruar shkronja B. Mbase është nistorja e emrit të pilotit."
     },
     "162.webp": {
         "title":"Kështu rritemi",
@@ -89,7 +89,7 @@ const Tekstet = {
     },
     "180.webp": {
         "title": "Lulja e Luli",
-        "text": "Lulja e Luli janë motër e vëlla binjakë. Ata kanë lindur të njëjtën ditë dhe të njëjtën ditë festojnë ditëlindjet. Sot do ta festojnë ditëlindjen e tyre të pestë. Babai u ka blerë petka të reja, nëna i ka larë, krehur e veshur që të duken sa më bukur. Ju bëfshin mirë ëmbëlsirat Lule e Lul!"
+        "text": "Lulja e Luli janë motër e vëlla binjakë. Ata kanë lindur të njëjtën ditë dhe të njëjtën ditë festojnë ditëlindjet. Sot do ta festojnë ditëlindjen e tyre të pestë. Babai u ka blerë rroba të reja, nëna i ka larë, krehur e veshur që të duken sa më bukur. Ju bëfshin mirë ëmbëlsirat Lule e Lul!"
     },
     "182.webp": {
         "title": "Katër breshkat",
