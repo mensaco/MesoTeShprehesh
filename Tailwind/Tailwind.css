@@ -1,0 +1,16 @@
+﻿@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {  
+    
+    body {
+        font-size: 16px;
+    }
+
+   figure > img {
+    @apply border-amber-500 border-4 p-3;
+   }
+
+    
+}
