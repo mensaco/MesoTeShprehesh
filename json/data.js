@@ -1,53 +1,70 @@
 const Tekstet = {
     "154.webp": {
+        "title":"Fëmijët e lumtur",
         "text": "Në këtë ilustrim duken kokat e gjashtë fëmijëve. Ata kanë ngjyrë të ndryshme të flokëve dhe lëkurës, sepse vijnë nga anë të ndryshme të botës. Buzëqeshja e tyre tregon se ata nuk kanë brenga dhe  janë të lumtur."
     },
     "155.webp": {
+        "title":"Dërrasa e lapsat",
         "text": "Këtu duket një dërrasë e zezë me kornizë druri. Djathtas dërrasës janë të radhitur shumë lapsa me ngjyra të ndryshme afër njëri-tjetrit. Të gjithë lapsat kanë majën në anën e djathtë."
     },
     "156.webp": {
+        "title":"Fëmijët lozonjarë",
         "text": "Në këtë ilustrim duken dy fëmijë duke luajtur në natyrë, në një livadh me bar të blertë e me hurdha të vogla balte. Të dy fëmijët qëndrojnë me duart e tyre përtokë dhe këmbët përpjetë kah qielli i kaltër. Ata kanë përbaltur petkat e tyre duke luajtur."
     },
     "158.png": {
+        "title":"Çupat modele",
         "text": "Ky vizatim ka pesë vajza me fustane dhe modele flokësh të ndryshme. E dyta ka një lule në fustan, të tjerat kanë figura të ndryshme gjeometrike si rrathe, vija etj."
     },
     "159.webp": {
+        "title":"Mësimi mbaroi",
         "text": "Ky ilustrim paraqit dy nxënës rrugës duke u kthyer nga shkolla. Të dytë janë të lumtur. Rruga kalon nëpër një bregore të blertë me ca shkurre në prapavi. Në qiellin me pak re shkëlqen dielli."
     },
     "160.webp": {
+        "title":"Ëndrra shumëngjyrëshe",
         "text": "Ky ilustrim i ngjan një ëndrre të një fëmije. Në plan të parë duken ca shtëpi dhe plazhi me lodra fëmijësh nëpër të. Më tutje duket deti me një anije, një varkë dhe një balenë. Qielli me shirita harkorë me ngjyrime të afërta reflektohet në sipërfaqen e detit. Në të majtë të ilustrimit ka një kullë të lartë fanari, në të djathtën një luftëtar ninja, ndërsa në pjesën e sipërme ka një balonë, një aeroplan dhe disa toptha që duken si trupa qiellorë."
     },
     "161.webp": {
+        "title":"Aeroplani i kuq",
         "text": "Këtu kemi të ilustruar një aeroplan i kuq me helikë, të ngjashëm me ata nga lufta e dytë botërore. Aeroplani ka krahë të dyfishtë dhe në ulëse nuk ka pilot. Në bishtin e aeroplanit është shkruar shkronja B. Mbase është nistorja e emrit të pilotit."
     },
     "162.webp": {
+        "title":"Kështu rritemi",
         "text": "Edhe ky ilustrim paraqit tre çuna dhe një gocë duke luajtur. Njëri nga çunat rri mbi duar, tjetri duket sikur ngjitet në një vend të ngritur. Dy fëmijët tjerë duket sikur flasin apo përshëndesin dikë. Petkat e fëmijëve janë plot ngjyra të ndryshme."
     },
     "163.webp": {
+        "title":"Oktapodi i fjetur",
         "text": "Këtu duket një oktapod i pikturuar me ngjyra uji. Oktapodi ka kokën e madhe me dy sy nga e cila dalin tetë apo nëntë gjymtyrë të quajtura tentakula. Ato i shërbejnë oktapodit për të notuar nën ujë apo për të kapur gjëra të ndryshme. Oktapodi është një kafshë shumë inteligjente. Janë gjetur fosile të oktapodit që tregojnë se lloji i tij ka jetuar para 300 milionë vjetësh."
     },
     "164.webp": {
-        "text": "Këtu kemi një ilustrim me figura të përsëritura të kafshëve, si elefanti, kali i Nilit dhe një kafshë me veshë të mëdhenj e sy të hapur plot kureshtje."
+        "title":"Letër muri",
+        "text": "Këtu kemi një letër muri me figura të përsëritura të kafshëve, si elefanti, kali i Nilit dhe një kafshë me veshë të mëdhenj e sy të hapur plot kureshtje."
     },
     "165.webp": {
+        "title":"Shokët e gjyshit",
         "text": "Këtu janë të vizatuar dy nxënës duke shkruar në fletoret e tyre. Uniformat e tyre duket të jenë nga fillimet e shekullit të kaluar. Edhe bankat dhe karriget kanë shumë detaje, gjë që ishte e zakonshme në atë kohë. Vizatimi është bërë me ngjyrë shkrimi, duke hequr vija më të theksuara apo më të zbehta me penë."
     },
     "166.webp": {
+        "title":"Pushimi pas lojës",
         "text": "Këtu kemi siluetat dy fëmijëve të ulur në një stol. Anash tyre ka gardh me dërrasa dhe një pemë e re me një shtëpizë zogjësh në majë. Dy gjethe në formë zemrash fluturojnë me erën."
     },
     "167.webp": {
-        "text": "Ky është një ilustrim i diellit. Ai paraqitet si fytyrë njeriu me sy të ngazëlluar, hundë, faqe e gojë të buzëqeshur dhe me krahë të hapur, sikur do të na përqafojë. Rrezet e diellit duken si petale të lulediellit, apo si leshrat e një luani."
+        "title":"Dielli i hareshëm",
+        "text": "Ky është një ilustrim i diellit. Ai është paraqitur si fytyrë njeriu me sy të ngazëlluar, hundë, faqe e gojë të buzëqeshur dhe me krahë të hapur, sikur do të na përqafojë. Rrezet e diellit duken si petale të lulediellit, apo si leshrat e një luani."
     },
     "169.webp": {
+        "title":"Dielli i hutuar",
         "text": "Edhe këtu ka një ilustrim të diellit, që duket si fytyra e një foshnjeje kurreshtare apo të habitur."
     },
     "170.webp": {
+        "title":"Luajmë me top",
         "text": "Ky ilustrim paraqit siluetat e një familjeje duke luajtur jashtë me top. Në anën e majtë duken nëna me birin e bijën, në të djathtën babai. Konturat tregojnë se babai e biri kanë veshur pantallona të shkurta, ndërsa nëna e bija fustane."
     },
     "171.webp": {
+        "title":"Ylberi si urë",
         "text": "Këtu duket një ylber me shtatë ngjyra të ndryshme, që fillon në një re dhe përfundon në një re tjetër."
     },
     "174.webp": {
+        "title":"Mmmm... ëmbëlsira",
         "text": "Një nënë apo ndoshta dado, ka gatuar një ëmbëlsirë. Ajo do ta vërë ëmbëlsirën mënjanë, mbase që të ftohet, apo deri sa të kthehet babai nga puna, por fëmijët duan medoemos të hanë menjëherë. Edhe qenushi i vogël duket të jetë shqetësuar bashkë me fëmijët."
     },
     "175.webp": {
@@ -600,16 +617,18 @@ const Tekstet = {
 
 
 const card = `
-<div x-data="{ open: false }" class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 w-full" >
-<div class="relative mt-3">
+<div x-data="{ open: false }" class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 w-full flex flex-col p-3" >
+<div class="relative">
     <img class="rounded-t-lg z-0 mx-auto" src="/img/{key}" alt="{key}" />    
     <a class="absolute text-xs top-2 left-2 z-10 text-gray-300 w-full" href="https://pixabay.com" target="_blank">burimi: pixabay</a>
 </div>
+<div class="flex-1"> </div>
 <div class="p-5">
   <a>
+  <h1 class="text-3xl text-gray-700 my-3">{title}</h1>
     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
       <a  @click="open = ! open"
-        class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-amber-700 rounded-lg hover:bg-amber-800 focus:ring-4 focus:outline-none focus:ring-amber-300 dark:bg-amber-600 dark:hover:bg-amber-700 dark:focus:ring-amber-800">
+        class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-amber-700 rounded-lg hover:bg-amber-800 focus:ring-4 focus:outline-none focus:ring-amber-300 dark:bg-amber-600 dark:hover:bg-amber-700 dark:focus:ring-amber-800">        
         <span x-show="!open">shfaqe përshkrimin</span>
         <span x-show="open">fshihe përshkrimin</span>
         <svg aria-hidden="true" class="w-4 h-4 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20"
