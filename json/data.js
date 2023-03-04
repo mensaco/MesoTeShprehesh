@@ -68,7 +68,8 @@ const Tekstet = {
         "text": "Një nënë apo ndoshta dado, ka gatuar një ëmbëlsirë. Ajo do ta vërë ëmbëlsirën mënjanë, mbase që të ftohet, apo deri sa të kthehet babai nga puna, por fëmijët duan medoemos të hanë menjëherë. Edhe qenushi i vogël duket të jetë shqetësuar bashkë me fëmijët."
     },
     "175.webp": {
-        "text": ""
+        "title":"Familja në bregdet",
+        "text": "Në planin e parë duken hijet e prindëve dhe dy fëmijëve të tyre. Prapa tyre duket deti dhe qielli i skuqur nga dielli në perëndim e sipër."
     },
     "176.webp": {
         "text": ""
