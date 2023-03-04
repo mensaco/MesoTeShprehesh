@@ -72,7 +72,8 @@ const Tekstet = {
         "text": "Në planin e parë duken hijet e prindëve dhe dy fëmijëve të tyre. Prapa tyre duket deti dhe qielli i skuqur nga dielli në perëndim e sipër."
     },
     "176.webp": {
-        "text": ""
+        "title": "Vrapimi në rreth",
+        "text": "Dhjetë figura në formë të njerëzve"
     },
     "177.webp": {
         "text": ""
