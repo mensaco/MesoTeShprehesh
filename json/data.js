@@ -53,7 +53,7 @@ const Tekstet = {
     },
     "169.webp": {
         "title":"Dielli i hutuar",
-        "text": "Edhe këtu ka një ilustrim të diellit, që duket si fytyra e një foshnjeje kurreshtare apo të habitur."
+        "text": "Edhe këtu ka një ilustrim të diellit, që duket si fytyra e një foshnjeje kureshtare apo të habitur."
     },
     "170.webp": {
         "title":"Luajmë me top",
@@ -73,58 +73,75 @@ const Tekstet = {
     },
     "176.webp": {
         "title": "Vrapimi në rreth",
-        "text": "Dhjetë figura në formë të njerëzve"
+        "text": "Dhjetë figura në formë të njerëzve duket sikur vrapojnë njëra pas tjetrës. Figurat janë shumë të thjeshtuara, të krijuara me kompjuter."
     },
     "177.webp": {
-        "text": ""
+        "title": "Pula e pispillosur",
+        "text": "Kjo pulë duket se është përgaditur për të shkuar në një gosti. Ka pastruar pendët, ka krehur qerpikët dhe ka rregulluar lafshën dhe duket sikur nuk i pritet të niset sa më shpejt."
     },
     "178.webp": {
-        "text": ""
+        "title": "Hansel dhe Gretel",
+        "text": "Këtu duken hijet e dy fëmijëve dhe një plake të vjetër, paksa të shëmtuar. Duket sikur janë Hansel, Gretel dhe shtriga plakë nga përralla e vëllezërve Grim. Gretel duket se ka frikë nga shtriga dhe fshihet prapa vëllait të saj."
     },
     "179.webp": {
-        "text": ""
+        "title": "Familja e vizatuar",
+        "text": "Të vizatuar me ngjyra të ndryshme duken konturat e një familjeje të lumtur. Dy fëmijët dhe babai përshëndesin me dorë të ngritur, ndërsa nëna i mban fëmijët në përqafim."
     },
     "180.webp": {
-        "text": ""
+        "title": "Lulja e Luli",
+        "text": "Lulja e Luli janë motër e vëlla binjakë. Ata kanë lindur të njëjtën ditë dhe të njëjtën ditë festojnë ditëlindjet. Sot do ta festojnë ditëlindjen e tyre të pestë. Babai u ka blerë petka të reja, nëna i ka larë, krehur e veshur që të duken sa më bukur. Ju bëfshin mirë ëmbëlsirat Lule e Lul!"
     },
     "182.webp": {
-        "text": ""
+        "title": "Katër breshkat",
+        "text": "Kjo është një pikturë e një piktori të ri. Autori i saj e ka vënë atë në murin e një ndërtese të ekspozitave. Aty vijnë dashamirët e artit nga çdo anë, që të kënaqen duke e shikuar pikturat e ekspozuara. Katër breshkat u pëlqejnë shumë vizitorëve."
     },
     "185.webp": {
-        "text": ""
+        "title": "Tullumbacja",
+        "text": "Kjo tullumbace është shumë kureshtare. Ajo mezi pret që dikush t'ia zgjidhë perin e të ngritet lart në qiell. Nga atje lart, ajo shpreson të shohë të gjitha bukuritë e botës. Ndoshta nuk e keni ditur, por në shumë vise asaj i thonë edhe balonë."
     },
     "186.webp": {
-        "text": ""
+        "title": "UNICEF",
+        "text": "Kjo këtu është emblema e Organizatës së Kombeve të Bashkuara për mbrojtjen e fëmijëve, që quhet UNICEF. Kjo organizatë punon që t'ua mundësojë fëmijëve të tërë botës të rriten të lumtur. Në emblemë duket një prind me fëmijën e tij, prapa tyre globi i botës dhe rreth tyre kallinjtë e grurit. "
     },
     "187.webp": {
-        "text": ""
+        "title": "Vëlla e motër",
+        "text": "Këta dy janë Ujkani e Erëmira. Janë vëlla e motër. Erëmira ka një vit më shumë se Ujkani. Të dyve u pëlqen të luajnë së bashku.",
     },
     "188.png": {
-        "text": ""
+        "title": "Princesha e fjetur",
+        "text": "Sipas përrallës, kjo princeshë kishte fjetur gjumin njëqindvjeçar, deri sa erdhi princi dhe e zgjoi me puthjen e dashurisë së sinqertë."
     },
     "189.webp": {
-        "text": ""
+        "title": "Trotineti i Omerit",
+        "text": "Omeri kishte para tri ditësh ditëlindjen. Për ditëlindje i ati dhe e ëma ia kishin bërë një befasi të këndshme. I kishin blerë një trotinet. Omeri u gëzua aq shumë kur e pa dhuratën e tij. Kur u lodh duke e ngarë, u ul dhe e vizatoi atë. Si ju duket vizatimi i tij, e ka qëlluar mirë?"
     },
     "190.webp": {
-        "text": ""
+        "title": "Dy vëllezërit",
+        "text": "Këta janë dy vëllezërit, Isai e Ylli. Isai është vëllai i vogël, ndërsa Ylli i madhi. Isai friket të dalë vetë në rrugë, por jo kur del me vëllaçkon e tij të madh."
     },
     "191.webp": {
-        "text": ""
+        "title": "Palaço hundëkuq",
+        "text": "Në pallatin tim ka një njeri, i cili punon si palaço cirku. Kur shkon në punë ai vë ngjyra të theksuara në fytyrë, vë një topth të kuq në majë të hundës dhe vishet nga koka deri te këmbët në petka me lloj-lloj ngjyrash, që i vijnë shumë të mëdha dhe i duhet t'i mbajë me rripa që të mos i zhvishen. Edhe këpucët i ka disa numra më të mëdha se këmbët. Kur del para shikuesve ai bën gjeste qesharake dhe i bën të gjithë të qeshin. Ky këtu është një portret i tij."
     },
     "192.webp": {
-        "text": ""
+        "title": "Valltarët",
+        "text": "Miri e Mira kanë disa muaj që ndjekin mësime të vallëzimit në një shkollë aty afër shtëpisë së tyre. Ata ndijnë kënaqësi të veçantë kur vallëzojnë. Deri tani kanë mësuar hapat e disa valleve kombëtare dhe disave nga bota. Ju dëshirojmë suksese Miri e Mira!"
     },
     "193.webp": {
-        "text": ""
+        "title": "Vjollca e shkronjat",
+        "text": "Sot Vjollca mësoi në shkollë shkronjën Z. E kishte parë edhe herë tjera më parë, por kishte menduar se ishte shkronja N, vetëm se dikush e kishte rrëzuar dhe lënë ashtu rënë. Nga sot ajo e di se kishte menduar gabimisht."
     },
     "194.webp": {
-        "text": ""
+        "title": "Siluetat",
+        "text": "Trimi ka shumë qejf të vizatojë, për nuk e ka dorën shumë të saktë. Kur mundohet të vizatojë një drejtëz, i del një lakore e hutuar. Rrathët i dalin si patate të shëmtuara. Sot ai mori një vizore dhe një kompas dhe me ndihmën e tyre vizatoi siluetat e tij dhe motrës së tij."
     },
     "195.webp": {
-        "text": ""
+        "title": "Familja Fodulli",
+        "text": "Këta janë anëtarët e familjes Fodulli. Ata pëlqejnë të dallohen nga njerëzit tjerë. Sot kanë blerë të gjithë syze me rreth të lyer me ar. Syzet ishin shumë të shtrenjta."
     },
     "196.jpeg": {
-        "text": ""
+        "title": "Meduzat fluturuese",
+        "text":"Arta pa një ëndërr të çuditshme. Ishte në mes të një are të lëruar dhe nga plasat e tokës dilnin meduza  ngjyrëbukura të cilat fluturonin përpjetë drejt qiellit. Sa me dëshirë donte ta kapte një me dorë, por kishte frikë se mund të helmohej."
     },
     "197.webp": {
         "text": ""
