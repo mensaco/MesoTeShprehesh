@@ -144,25 +144,28 @@ const Tekstet = {
         "text":"Arta pa një ëndërr të çuditshme. Ishte në mes të një are të lëruar dhe nga plasat e tokës dilnin meduza  ngjyrëbukura të cilat fluturonin përpjetë drejt qiellit. Sa me dëshirë donte ta kapte një me dorë, por kishte frikë se mund të helmohej."
     },
     "197.webp": {
-        "text": ""
+        "title":"Torta e ditëlindjes",
+        "text": "Zana feston sot ditëlindjen e pestë. Nëna e saj ka gatuar një tortë të bukur, të mbuluar me kremë të bardhë dhe të dekoruar me qershi të kuqe rreth e përqark. Mbi tortë ka vënë pesë qirinj, nga një për çdo vit të jetës së Zanës. Gjatë festës më vonë, Zana do të fryjë me gjithë fuqinë për t'i shuar qirinjtë e ndezur mbi tortë. Zanës i pëlqejnë tortat e së ëmës."
     },
     "198.webp": {
-        "text": ""
+        "title":"Kurorë lulesh",
+        "text": "Kjo këtu është një kurorë lulesh me fjongo mëndafshi. Atë e thuri Drita, kushërira e vogël e Isait. Drita ka një dashuri për punëdore. Ajo lexon dhe shikon me kënaqësi libra e video me udhëzime praktike e shembuj për punëdore në internet. Për kurorën në fotografi, ajo mblodhi lulet vetë, ndërsa fjongot ia qepi nëna."
     },
     "199.webp": {
-        "text": ""
-    },
-    "200.jpeg": {
-        "text": ""
+        "title":"Zana e vogël",
+        "text": "Kjo këtu është Gurrëftohta, një zanë e vogël nga Bjeshkët e Nemuna. Ajo, sikur motrat dhe shoqet e saj, është e vogël sa pëllëmba e një fëmije të vogël të njeriut. Kur kalojnë njerëzit nëpër bjeshkë, ajo fshihet nën gjethe të luleve se ka frikë mos e shkelin padashje. Gurrëftohtës i pëlqen të luajë e të fluturojë me krahët e saj vezullues nëpër kurorat e lisave. Kur të shkosh në pyll me prindërit, mos bëj shumë zhurmë se ndoshta ua prish gjumin shoqeve të Gurrëftohtës."
     },
     "201.webp": {
-        "text": ""
+        "title": "Arithi pret motrën",
+        "text": "Nëna e Lushit, arithit të vogël, ka tri ditë që është shtrirë në spital. Ajo sot kthehet në shtëpi, por jo vetë. Me vete do ta sjellë motrën e vockël të arithit. Ajo kishte lindur mbrëmë dhe vetëm di të qajë, të pijë qumësht dhe të mbushë pelenat. Lushi është shumë i gëzuar për motrën e re. Me lule në dorë pret që nëna dhe motra të vijnë në shtëpi. Ai do t'i mësojë asaj aq shumë gjëra dhe sa të rritet pak, do të kënaqen duke luajtur bashkë."
     },
     "202.webp": {
-        "text": ""
+        "title": "Familja e Fatosit",
+        "text": "Fatosi ka një vit që shkon në çerdhe. Ah, ju u quani kopsht? Epo dikush i thotë ashtu, dikush kështu. Fatosi luan aty me shokë e shoqe dhe me edukatoren. Nganjëherë këndojnë këngë fëmijësh e shpeshherë vizatojnë e pikturojnë. Dje Fatosi pikturoi veten, nënën, babain dhe motrën e tij. Edukatorja e vari pikturën e Fatosit në murin e çerdhes për ta parë të gjithë."
     },
     "203.webp": {
-        "text": ""
+        "title":"Ku jetojnë shkronjat?",
+        "text": "A e ke pyetur ndonjëherë veten, vallë ku jetojnë shkronjat, ku flenë ato? Nëse nuk e ke gjetur, të tregoj unë tani. Shkronjat gjithmonë kanë lindur në majë të pendës dhe kanë jetuar nëpër letra, fletore, gazeta e sidomos nëpër libra. Atyre u pëlqen të shtrihen në faqe të letrës, të rreshtuara nëpër rreshta. Aty ato flenë deri sa dikush t'i shfletojë dhe t'ua prishë gjumin. Atëherë ato i tregojnë lexuesit aq shumë gjëra interesante. Ti a ke ndonjë libër me shkronja?"
     },
     "204.webp": {
         "text": ""
@@ -638,7 +641,7 @@ const Tekstet = {
 const card = `
 <div x-data="{ open: false }" class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 w-full flex flex-col p-3" >
 <div class="relative">
-    <img class="rounded-t-lg z-0 mx-auto" src="/img/{key}" alt="{key}" />    
+    <img class="rounded-t-lg z-0 mx-auto" src="/img/{key}" alt="{title}" />    
     <a class="absolute text-xs top-2 left-2 z-10 text-gray-300 w-full" href="https://pixabay.com" target="_blank">burimi: pixabay</a>
 </div>
 <div class="flex-1"> </div>
