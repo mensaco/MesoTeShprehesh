@@ -161,7 +161,7 @@ const Tekstet = {
     },
     "202.webp": {
         "title": "Familja e Fatosit",
-        "text": "Fatosi ka një vit që shkon në çerdhe. Ah, ju u quani kopsht? Epo dikush i thotë ashtu, dikush kështu. Fatosi luan aty me shokë e shoqe dhe me edukatoren. Nganjëherë këndojnë këngë fëmijësh e shpeshherë vizatojnë e pikturojnë. Dje Fatosi pikturoi veten, nënën, babain dhe motrën e tij. Edukatorja e vari pikturën e Fatosit në murin e çerdhes për ta parë të gjithë."
+        "text": "Fatosi ka një vit që shkon në çerdhe. Ah, ju e quajtkeni kopsht? Epo, dikush i thotë ashtu, dikush kështu. Fatosi luan aty me shokë e shoqe dhe me edukatoren. Nganjëherë këndojnë këngë fëmijësh, nganjëherë shëtisin në pyllin e afërt e shpeshherë vizatojnë dhe pikturojnë. Dje Fatosi pikturoi veten, nënën, babain dhe motrën e tij. Edukatorja e vari pikturën e Fatosit në murin e çerdhes për ta parë të gjithë."
     },
     "203.webp": {
         "title":"Ku jetojnë shkronjat?",
