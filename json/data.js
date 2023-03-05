@@ -212,420 +212,547 @@ const Tekstet = {
         "text": "Në këtë fotografi, duken dhjetëra njerëz duke bërë gjëra të ndryshme. Disa rrinë, disa ecin, disa të tjerë luajnë... <br>Provo të gjesh se çfarë bën secili prej tyre!"
     },
     "3.jpeg": {
-        "text": ""
+        "title":"Loja në park",
+        "text": "Në ilustrim duken tri veta; një djalë dhe dy vajza. Ata janë duke luajtur në një park afër një lisi dhe ca shkurresh. Çuni ka një raketë lodër në dorë. Duket se ka erë që i bart gjethet e drunnjëve, bile në sfond duket një re dhe ca pika shiu. Mbase është vjeshtë."
     },
     "4.jpeg": {
-        "text": ""
-    },
-    "5.jpeg": {
-        "text": ""
+        "title":"Nëna me fëmijët",
+        "text": "Mali i vogël ka filluar sivjet klasën e parë. Ai shkon në shkollën e njëjtë ku shkon edhe motra e tij më e madhe Suta. Ata jetojnë në Pejë, afër xhaxhallarëve të babait të tyre, Agimit. Nëna e tyre ka lindur në Kenia dhe quhet Chepkirui. Kur Agimi e njohu atë me prindërit e tij, ata e kishin vështirë ta thërrasin saktë. Me kohë filluan ta quajnë më shkurt, Kira. Chepkiruit i pëlqeu emri i ri. Sot Kira i mori fëmijët e saj nga shkolla. Si Suta, ashtu edhe Mali flasin edhe shqip edhe suahili."
     },
     "6.webp": {
-        "text": ""
-    },
-    "7.webp": {
-        "text": ""
-    },
-    "8.webp": {
-        "text": ""
+        "title":"Nxito për në shkollë",
+        "text": "Dardani e Artana janë vëlla e motër bineq. Ata shkojnë në klasën e parë. Dardani ka flokë të shkurtër, rroba e këpucë të kaltra dhe një çantë të gjelbër të shpindës. Artana mban flokët të gërshetuara në dy bishtaleca me fjongo në majë. Ajo ka një fustan të bukur ngjyrë portokalli dhe këpucë të kuqe. Çanta e saj i përshtatet me ngjyrë këpucëve të saj. Të dytë e kanë bërë një model të lapsit nga kartoni dhe janë kureshtarë se a do t'i pëlqejë puna e tyre mësuesit."
     },
     "9.webp": {
-        "text": ""
+        "title":"Paradë mode",
+        "text": "Këta zogjtë kanë vendosur të mbajnë një paradë mode. Ata parakalojnë me mendjemadhësi para zogjve të interesuar, duke ndërruar secilën herë ngjyrën e puplave të tyre. Kur arrijnë te fundi i pistës, ata ndalen për një çast, shikojnë publikun dhe me elegancë kthehen mbrapa. Nga aty ata shkojnë prapa skenës, për t'u përgaditur për daljen e radhës."
     },
     "10.webp": {
-        "text": ""
+        "title":"Modele flokësh",
+        "text": "Floktarja e lagjes sonë, zonja Kumrie, ka mësuar zanatin e prerjes së flokëve në Paris të Francës. Ajo një herë pati treguar se çdo fytyre i përshtatet një prerje tjetër e flokëve. Njerëzit nuk e kishin të qartë sqarimin e saj, se nuk kishin kryer zanatin në Paris të Francës. Për atë, zonja Kumrie, vuri përskaj pasqyreve të saj këtë fotografinë me njerëz me fytyra e prerje të ndryshme flokësh. Tani secili e ka më lehtë të gjejë se cila prerje i shkon më bukur për fytyre."
     },
     "12.webp": {
-        "text": ""
+        "title":"Libri",
+        "text": "Libri ka më shumë se shkronja e fotografi. Ai ka një tregim që të çon anembanë botës, të çon në kohëra të kaluara apo edhe të ardhme, të fut në midis të aventurave e përjetimeve më interesante, të bën dëshmitar të ngjarjeve më heroike që mund të trillojë imagjinata. Libri është si një shok që nuk të lë në baltë. Ai të ndihmon të bëhesh më i mençur, më i kuptueshëm e më i ngritur."
     },
     "13.webp": {
-        "text": ""
+        "title":"Fluturo, fluturo!...",
+        "text": "Muajin e kaluar Drita bashkë me nënën dhe vëllain e saj kishin fluturuar nga Prishtina për në Frankfurt të Gjermanisë. Pas një jave qëndrimi, ata fluturuan mbrapa. Në fillim Drita kishte pak frikë, por pastaj iu hoq frika dhe tërë rrugës i shikonte retë e bardha si pambuku dhe majet e maleve. Asaj i pëlqente shumë fluturimi. Mbrëmë ajo pa një ëndërr fantastike. Ajo fluturonte lart mbi re, edhe më lart se shqiponjat. Kur i doli gjumi, ajo i mbyllte ende sytë se nuk donte që ëndrra e mirë të përfundonte."
     },
     "14.jpeg": {
-        "text": ""
+        "title":"Lundrimi në hapësirë",
+        "text": "Tre shokë imagjinojnë fluturimin e tyre në hapësirat e pafund të kozmosit. Ata duhet të mbajnë skafandra në kokë dhe rroba të posaçme, meqë atje lart nuk ka ajër dhe bën shumë ftohtë. Gjatë lundrimit të tyre, ata shohin yje, planete e mjegullnaja dhe takojnë jashtëtokësorë të vegjël me të cilët luajnë. Imagjinata të shpie atje ku askush nuk ka qenë më parë."
     },
     "15.webp": {
+        "title":"",
         "text": ""
     },
     "16.webp": {
+        "title":"",
         "text": ""
     },
     "17.webp": {
+        "title":"",
         "text": ""
     },
     "18.webp": {
+        "title":"",
         "text": ""
     },
     "19.webp": {
+        "title":"",
         "text": ""
     },
     "20.webp": {
+        "title":"",
         "text": ""
     },
     "21.jpeg": {
+        "title":"",
         "text": ""
     },
     "22.webp": {
+        "title":"",
         "text": ""
     },
     "23.jpeg": {
+        "title":"",
         "text": ""
     },
     "24.webp": {
+        "title":"",
         "text": ""
     },
     "25.webp": {
+        "title":"",
         "text": ""
     },
     "26.webp": {
+        "title":"",
         "text": ""
     },
     "27.webp": {
+        "title":"",
         "text": ""
     },
     "28.webp": {
+        "title":"",
         "text": ""
     },
     "32.jpeg": {
+        "title":"",
         "text": ""
     },
     "34.webp": {
+        "title":"",
         "text": ""
     },
     "35.webp": {
+        "title":"",
         "text": ""
     },
     "36.webp": {
+        "title":"",
         "text": ""
     },
     "37.webp": {
+        "title":"",
         "text": ""
     },
     "38.webp": {
+        "title":"",
         "text": ""
     },
     "39.webp": {
+        "title":"",
         "text": ""
     },
     "40.webp": {
+        "title":"",
         "text": ""
     },
     "42.webp": {
+        "title":"",
         "text": ""
     },
     "43.jpeg": {
+        "title":"",
         "text": ""
     },
     "44.webp": {
+        "title":"",
         "text": ""
     },
     "45.jpeg": {
+        "title":"",
         "text": ""
     },
     "46.webp": {
+        "title":"",
         "text": ""
     },
     "47.webp": {
+        "title":"",
         "text": ""
     },
     "48.webp": {
+        "title":"",
         "text": ""
     },
     "49.webp": {
+        "title":"",
         "text": ""
     },
     "50.webp": {
+        "title":"",
         "text": ""
     },
     "51.jpeg": {
+        "title":"",
         "text": ""
     },
     "52.webp": {
+        "title":"",
         "text": ""
     },
     "53.webp": {
+        "title":"",
         "text": ""
     },
     "54.webp": {
+        "title":"",
         "text": ""
     },
     "55.webp": {
+        "title":"",
         "text": ""
     },
     "56.webp": {
+        "title":"",
         "text": ""
     },
     "57.webp": {
+        "title":"",
         "text": ""
     },
     "58.webp": {
+        "title":"",
         "text": ""
     },
     "59.webp": {
+        "title":"",
         "text": ""
     },
     "60.webp": {
+        "title":"",
         "text": ""
     },
     "61.webp": {
+        "title":"",
         "text": ""
     },
     "62.webp": {
+        "title":"",
         "text": ""
     },
     "63.webp": {
+        "title":"",
         "text": ""
     },
     "64.webp": {
+        "title":"",
         "text": ""
     },
     "65.webp": {
+        "title":"",
         "text": ""
     },
     "66.webp": {
+        "title":"",
         "text": ""
     },
     "67.webp": {
+        "title":"",
         "text": ""
     },
     "68.webp": {
+        "title":"",
         "text": ""
     },
     "69.webp": {
+        "title":"",
         "text": ""
     },
     "70.webp": {
+        "title":"",
         "text": ""
     },
     "71.webp": {
+        "title":"",
         "text": ""
     },
     "72.webp": {
+        "title":"",
         "text": ""
     },
     "73.jpeg": {
+        "title":"",
         "text": ""
     },
     "74.webp": {
+        "title":"",
         "text": ""
     },
     "75.webp": {
+        "title":"",
         "text": ""
     },
     "76.jpeg": {
+        "title":"",
         "text": ""
     },
     "77.webp": {
+        "title":"",
         "text": ""
     },
     "78.webp": {
+        "title":"",
         "text": ""
     },
     "79.webp": {
+        "title":"",
         "text": ""
     },
     "80.webp": {
+        "title":"",
         "text": ""
     },
     "81.jpeg": {
+        "title":"",
         "text": ""
     },
     "82.webp": {
+        "title":"",
         "text": ""
     },
     "83.webp": {
+        "title":"",
         "text": ""
     },
     "84.jpeg": {
+        "title":"",
         "text": ""
     },
     "85.webp": {
+        "title":"",
         "text": ""
     },
     "86.webp": {
+        "title":"",
         "text": ""
     },
     "87.webp": {
+        "title":"",
         "text": ""
     },
     "88.webp": {
+        "title":"",
         "text": ""
     },
     "89.webp": {
+        "title":"",
         "text": ""
     },
     "90.webp": {
+        "title":"",
         "text": ""
     },
     "91.webp": {
+        "title":"",
         "text": ""
     },
     "92.webp": {
+        "title":"",
         "text": ""
     },
     "93.webp": {
+        "title":"",
         "text": ""
     },
     "95.webp": {
+        "title":"",
         "text": ""
     },
     "96.webp": {
+        "title":"",
         "text": ""
     },
     "97.webp": {
+        "title":"",
         "text": ""
     },
     "98.webp": {
+        "title":"",
         "text": ""
     },
     "99.webp": {
+        "title":"",
         "text": ""
     },
     "100.webp": {
+        "title":"",
         "text": ""
     },
     "101.webp": {
+        "title":"",
         "text": ""
     },
     "102.webp": {
+        "title":"",
         "text": ""
     },
     "103.webp": {
+        "title":"",
         "text": ""
     },
     "104.webp": {
+        "title":"",
         "text": ""
     },
     "105.webp": {
+        "title":"",
         "text": ""
     },
     "106.webp": {
+        "title":"",
         "text": ""
     },
     "107.webp": {
+        "title":"",
         "text": ""
     },
     "108.webp": {
+        "title":"",
         "text": ""
     },
     "109.webp": {
+        "title":"",
         "text": ""
     },
     "110.webp": {
+        "title":"",
         "text": ""
     },
     "111.jpeg": {
+        "title":"",
         "text": ""
     },
     "112.jpeg": {
+        "title":"",
         "text": ""
     },
     "113.jpeg": {
+        "title":"",
         "text": ""
     },
     "114.jpeg": {
+        "title":"",
         "text": ""
     },
     "115.jpeg": {
+        "title":"",
         "text": ""
     },
     "116.jpeg": {
+        "title":"",
         "text": ""
     },
     "117.jpeg": {
+        "title":"",
         "text": ""
     },
     "118.webp": {
+        "title":"",
         "text": ""
     },
     "119.webp": {
+        "title":"",
         "text": ""
     },
     "120.webp": {
+        "title":"",
         "text": ""
     },
     "121.webp": {
+        "title":"",
         "text": ""
     },
     "122.webp": {
+        "title":"",
         "text": ""
     },
     "123.webp": {
+        "title":"",
         "text": ""
     },
     "125.webp": {
+        "title":"",
         "text": ""
     },
     "126.webp": {
+        "title":"",
         "text": ""
     },
     "127.webp": {
+        "title":"",
         "text": ""
     },
     "128.webp": {
+        "title":"",
         "text": ""
     },
     "129.webp": {
+        "title":"",
         "text": ""
     },
     "130.webp": {
+        "title":"",
         "text": ""
     },
     "132.webp": {
+        "title":"",
         "text": ""
     },
     "133.webp": {
+        "title":"",
         "text": ""
     },
     "134.webp": {
+        "title":"",
         "text": ""
     },
     "135.webp": {
+        "title":"",
         "text": ""
     },
     "136.webp": {
+        "title":"",
         "text": ""
     },
     "137.webp": {
+        "title":"",
         "text": ""
     },
     "138.webp": {
+        "title":"",
         "text": ""
     },
     "139.webp": {
+        "title":"",
         "text": ""
     },
     "140.webp": {
+        "title":"",
         "text": ""
     },
     "141.webp": {
+        "title":"",
         "text": ""
     },
     "142.webp": {
+        "title":"",
         "text": ""
     },
     "143.webp": {
+        "title":"",
         "text": ""
     },
     "144.webp": {
+        "title":"",
         "text": ""
     },
     "145.png": {
+        "title":"",
         "text": ""
     },
     "146.webp": {
+        "title":"",
         "text": ""
     },
     "147.jpeg": {
+        "title":"",
         "text": ""
     },
     "148.webp": {
+        "title":"",
         "text": ""
     },
     "150.webp": {
+        "title":"",
         "text": ""
     },
     "151.webp": {
+        "title":"",
         "text": ""
     },
     "152.webp": {
