@@ -167,50 +167,49 @@ const Tekstet = {
         "title":"Ku jetojnë shkronjat?",
         "text": "A e ke pyetur ndonjëherë veten, vallë ku jetojnë shkronjat, ku flenë ato? Nëse nuk e ke gjetur, të tregoj unë tani. Shkronjat gjithmonë kanë lindur në majë të pendës dhe kanë jetuar nëpër letra, fletore, gazeta e sidomos nëpër libra. Atyre u pëlqen të shtrihen në faqe të letrës, të rreshtuara nëpër rreshta. Aty ato flenë deri sa dikush t'i shfletojë dhe t'ua prishë gjumin. Atëherë ato i tregojnë lexuesit aq shumë gjëra interesante. Ti a ke ndonjë libër me shkronja?"
     },
-    "204.webp": {
-        "text": ""
-    },
     "205.jpeg": {
-        "text": ""
+        "title": "Mandolinisti dhe muza",
+        "text": "Kjo është një pikturë e bukur me dy karaktere. Mandolinisti me kostum mesjetar rri ulur me mandolinën te këmbët e tij në dysheme. Nuk dimë nëse vetëm pushon, apo ndoshta i ka ngecur frymëzimi për të krijuar melodi të reja. Pranë tij, në këmbë qëndron një grua e bukur me flokë të gjatë dhe krahë të ngjashëm me fluturat dhe me një skeptër në dorë. Në kohën e Rilindjes, kështu pikturoheshin qeniet mitologjike e përrallore, si hyjnitë e lashtësisë, zanat e të ngjashme. Piktori si duket kështu paraqit një muzë. Në lashtësi, njerëzit besonin se muzat ishin hyjnesha të cilat frymëzonin njerëzit për të krijuar vepra të bukura arti. Krahët fluturues, skeptrat, por edhe bukuria e përsosur janë simbole me të cilat piktorët i dallojnë figurat mitologjike nga njerëzit e rëndomtë."
     },
     "206.webp": {
-        "text": ""
+        "title": "Zana lozonjare",
+        "text": "Kjo këtu duket të jetë një zanë e vogël, një qenie që sipas përrallave jeton larg njerëzve, nëpër pyje e livadhe. Në piktura zanat paraqiten shpesh si qenie shumë të vogla me krahë fluturues të ngjashëm me krahët e fluturave apo të bletëve. Mollëkuqet përrreth nxjerrin në pah vogëlsinë e zanës."
     },
     "207.jpeg": {
-        "text": ""
+        "title": "Breshka gjigante",
+        "text": "Kjo këtu është një pikturë abstrakte. Breshka të tilla të mëdha nuk ekzistojnë në jetën reale. Këto piktura shpeshherë paraqesin skena të ëndrrave, skena mitologjike, apo pasqyrojnë imagjinatën e autorëve të tyre."
     },
     "208.webp": {
-        "text": ""
+        "title": "Loja me top",
+        "text": "Ky vizatim duket i lehtë për ta kuptuar. Duket një top në ajër dhe dy fëmijë me krahë të shtrirë kah ai. Bishtaleci i ngritur i çupës, por edhe vijëzimet përfundi këpucëve të të dy fëmijëve, tregojnë se ata janë duke kërcyer. Vijëzat rreth topit tregojnë se edhe ai është në lëvizje."
     },
     "209.webp": {
-        "text": ""
+        "title": "Fëmija në erë",
+        "text": "Në plan të parë të këtij vizatimi duket një fëmijë i ulur në një livadh. Në sfond duken bregore të vogla me lisa aty-këtu. Si flokët e fëmijës, ashtu edhe fijet e barit dhe kurorat e lisave janë të lakuara në një anë, që do të thotë se fryen era. Po fëmija ç'bën vallë? Athua vrojton shpezët që fluturojnë, vëllain që luan më tutje me balonë, apo thjesht është thelluar në mendime? <br>Si mendon ti?"
     },
     "210.webp": {
-        "text": ""
+        "title": "Godzilla",
+        "text": "Luli shkon në klasën e tretë. Ai ka mësuar të vizatojë shumë mirë kullat e kështjellat mesjetare. Para ca ditësh Luli bashkë me vëllain e tij të madh shikuan filmin me përbindëshin e quajtur Godzilla. Ai film i la mbresa të thella Lulit. Sot ai vendosi të vizatojë një qytezë mesjetare, të cilën e viziton Godzilla."
     },
     "212.webp": {
-        "text": ""
+        "title": "Xhumbo",
+        "text":"Ky elefant i vogël quhet Xhumbo. Xhumbos i pëlqen shumë të aktrojë sikur aktorët e mëdhenj të filmit. Ëmbëlsirat i pëlqejnë edhe më shumë. Mmmm sot është shumë i gëzuar që do të hajë puding me shije dredhëze."
     },
     "213.webp": {
-        "text": ""
-    },
-    "214.jpeg": {
-        "text": ""
+        "title": "Valle rreth botës",
+        "text": "Në këtë pikturë duket globi i Tokës me oqeane e kontinente dhe rreth tij duken disa fëmijë duke vallëzuar. Fëmijët kanë flokë e lëkurë me ngjyra të ndryshme, që do të thotë se vijnë nga anë të ndryshme të botës. Duket sikur me këtë pikturë, piktori ka shprehur dëshirën e tij, që të gjithë fëmijët e kësaj botë të kenë fëmijëri të lumtur e pa brenga."
     },
     "215.webp": {
-        "text": ""
+        "title": "Musketarët e vegjël",
+        "text": "Këta pesë fëmijë janë të një moshe, por secili duket pak më ndryshe nga të tjerët. Ata vijnë nga anë të ndryshme to botës. Goca flokëverdhë vjen nga Europa me vranësira, çuni me kaçurrela të shpeshtë vjen nga Afrika plot diell, çuni tjetër nga viset tona, çupa me lëkurë në të verdhë nga Azia e largët dhe së fundi çuni majtas vjen nga Amerika e Jugut. Ata u takuan dje në një park lodrash në Prishtinë dhe u kënaqën duke luajtur së bashku. Në fund u betuan se do të mbeten shokë dhe do të takohen përsëri kur të rriten. Si musketarët atëbotë, i vunë duart mbi njëra-tjetrën dhe thërritën \"Njëri për të gjithë, të gjithë për njërin\". <br>Po ti, a njeh dikë që duket ndryshe nga ti?"
     },
     "216.png": {
-        "text": ""
-    },
-    "0.jpeg": {
-        "text": ""
-    },
-    "1.jpeg": {
-        "text": ""
+        "title": "Miu",
+        "text": "Biri im, Isai u mundua dje disa herë të vizatojë një mi të vogël. Nuk pati shumë sukses. Isai është ende shumë i vogël dhe nuk e zotëron lapsin ende si duhet. Unë nuk munda ta shoh ashtu të pikëlluar. Iu afrova dhe e vizatova këtë miun për të. Është e mundur t'ia kem bërë veshët pak më të mëdhenj dhe mustaqet pak më të gjata. Është vështirë të vizatosh nga kujtesa. Isait iu kthye buzëqeshja në fytyrë. I pëlqeu vizatimi im."
     },
     "2.jpeg": {
-        "text": ""
+        "title": "Siluetat në veprim",
+        "text": "Në këtë fotografi, duken dhjetëra njerëz duke bërë gjëra të ndryshme. Disa rrinë, disa ecin, disa të tjerë luajnë... <br>Provo të gjesh se çfarë bën secili prej tyre!"
     },
     "3.jpeg": {
         "text": ""
