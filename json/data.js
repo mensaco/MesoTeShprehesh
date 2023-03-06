@@ -244,28 +244,24 @@ const Tekstet = {
         "text": "Tre shokë imagjinojnë fluturimin e tyre në hapësirat e pafund të kozmosit. Ata duhet të mbajnë skafandra në kokë dhe rroba të posaçme, meqë atje lart nuk ka ajër dhe bën shumë ftohtë. Gjatë lundrimit të tyre, ata shohin yje, planete e mjegullnaja dhe takojnë jashtëtokësorë të vegjël me të cilët luajnë. Imagjinata të shpie atje ku askush nuk ka qenë më parë."
     },
     "15.webp": {
-        "title":"",
-        "text": ""
+        "title":"Barka me vel",
+        "text": "Tina jeton në një fshat të vogël në bregdet. Babai i saj është peshkatar. Ai ka një barkë me një vel. Tinës i pëlqen shumë kur lundrojnë bashkë me babain në det. Ata e hapin velin, që era t'ua shtyjë barkën. Kur fryen erë pak më e fortë, e tërë barka tundet mbi ujë. Tina nuk ka frikë se e ka babain afër."
     },
     "16.webp": {
-        "title":"",
-        "text": ""
+        "title":"Roboti Kutiar",
+        "text": "Fidani e kishte ëndërruar disa herë para ca muajsh një robot. Një mëngjes, ai e vizatoi një skicë të robotit. Babai i Fidanit, që punon si axhustator, kishte marrë atë skicë dhe në fshehtësi ia kishte ndërtuar robotin Fidanit. Dje Fidani festoi ditëlindjen dhe u gëzua pa masë, kur babai e nëna ia dhuruan robotin e ëndrrave. Meqë ky ishte i ndërtuar nga shumë kuti ngjyrë ari, vendosën ta quajnë Kutiar."
     },
     "17.webp": {
-        "title":"",
-        "text": ""
-    },
-    "18.webp": {
-        "title":"",
-        "text": ""
+        "title":"Dorina",
+        "text": "- Oooo Enes, po ti e paske një kalë të bukur, dori! Si e quajnë kalin tënd? - pyet daja Enesin e vogël. <br>- Nuk është kalë, është pelë dhe quhet Dorina. - ia kthen Enesi dajës dhe vazhdon të luajë."
     },
     "19.webp": {
-        "title":"",
-        "text": ""
+        "title":"Ariu polar",
+        "text": "Ky ariu polar me qime të bardhë, ka vendosur ta vizitojë kushëririn e tij, Arushin e Murrmë që jeton në Bjeshkët e Nemuna. Atij i duhet pasaporta me fotografi, se përndryshe nuk e kalon dot kufirin. Fotografja i tha se një shall i rri bukur rreth qafës, por gjuhën nuk bën ta mbajë jashtë gojës."
     },
     "20.webp": {
-        "title":"",
-        "text": ""
+        "title":"Qenushi i habitur",
+        "text": "Trimi i ka mësuar qenushit të tij fjalët ulu, ngritu, ec, rrotullohu dhe leh. Çdo ditë qenushi e dëgjon Trimin me vëmendje dhe zbaton me përpikmëri urdhërat e tij. Sot erdhi Genti, shoku i Trimit. Genti mëson ngapak anglisht. Ai i tha qenushit \"sit!\", që në anglishte do të thotë ulu. Qenushi u struk i frikësuar se nuk e kuptoi. <br>-Po pse s'më flet shqip ky?! - mendoi qenushi me vete."
     },
     "21.jpeg": {
         "title":"",
