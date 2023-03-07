@@ -1,74 +1,74 @@
 const Tekstet = {
     "154.webp": {
-        "title":"Fëmijët e lumtur",
+        "title": "Fëmijët e lumtur",
         "text": "Në këtë ilustrim duken kokat e gjashtë fëmijëve. Ata kanë ngjyrë të ndryshme të flokëve dhe lëkurës, sepse vijnë nga anë të ndryshme të botës. Buzëqeshja e tyre tregon se ata nuk kanë brenga dhe  janë të lumtur."
     },
     "155.webp": {
-        "title":"Dërrasa e lapsat",
+        "title": "Dërrasa e lapsat",
         "text": "Këtu duket një dërrasë e zezë me kornizë druri. Djathtas dërrasës janë të radhitur shumë lapsa me ngjyra të ndryshme afër njëri-tjetrit. Të gjithë lapsat kanë majën në anën e djathtë."
     },
     "156.webp": {
-        "title":"Fëmijët lozonjarë",
+        "title": "Fëmijët lozonjarë",
         "text": "Në këtë ilustrim duken dy fëmijë duke luajtur në natyrë, në një livadh me bar të blertë e me hurdha të vogla balte. Të dy fëmijët qëndrojnë me duart e tyre përtokë dhe këmbët përpjetë kah qielli i kaltër. Ata kanë përbaltur rrobat e tyre duke luajtur."
     },
     "158.png": {
-        "title":"Çupat modele",
+        "title": "Çupat modele",
         "text": "Ky vizatim ka pesë vajza me fustane dhe modele flokësh të ndryshme. E dyta ka një lule në fustan, të tjerat kanë figura të ndryshme gjeometrike si rrathe, vija etj."
     },
     "159.webp": {
-        "title":"Mësimi mbaroi",
+        "title": "Mësimi mbaroi",
         "text": "Ky ilustrim paraqit dy nxënës rrugës duke u kthyer nga shkolla. Të dytë janë të lumtur. Rruga kalon nëpër një bregore të blertë me ca shkurre në prapavi. Në qiellin me pak re shkëlqen dielli."
     },
     "160.webp": {
-        "title":"Ëndrra shumëngjyrëshe",
+        "title": "Ëndrra shumëngjyrëshe",
         "text": "Ky ilustrim i ngjan një ëndrre të një fëmije. Në plan të parë duken ca shtëpi dhe plazhi me lodra fëmijësh nëpër të. Më tutje duket deti me një anije, një varkë dhe një balenë. Qielli me shirita harkorë me ngjyrime të afërta reflektohet në sipërfaqen e detit. Në të majtë të ilustrimit ka një kullë të lartë fanari, në të djathtën një luftëtar ninja, ndërsa në pjesën e sipërme ka një balonë, një aeroplan dhe disa toptha që duken si trupa qiellorë."
     },
     "161.webp": {
-        "title":"Aeroplani i kuq",
+        "title": "Aeroplani i kuq",
         "text": "Këtu kemi të ilustruar një aeroplan i kuq me helikë, të ngjashëm me ata nga Lufta e Dytë Botërore. Aeroplani ka krahë të dyfishtë dhe në ulëse nuk ka pilot. Në bishtin e aeroplanit është shkruar shkronja B. Mbase është nistorja e emrit të pilotit."
     },
     "162.webp": {
-        "title":"Kështu rritemi",
+        "title": "Kështu rritemi",
         "text": "Edhe ky ilustrim paraqit tre çuna dhe një gocë duke luajtur. Njëri nga çunat rri mbi duar, tjetri duket sikur ngjitet në një vend të ngritur. Dy fëmijët tjerë duket sikur flasin apo përshëndesin dikë. Petkat e fëmijëve janë plot ngjyra të ndryshme."
     },
     "163.webp": {
-        "title":"Oktapodi i fjetur",
+        "title": "Oktapodi i fjetur",
         "text": "Këtu duket një oktapod i pikturuar me ngjyra uji. Oktapodi ka kokën e madhe me dy sy nga e cila dalin tetë apo nëntë gjymtyrë të quajtura tentakula. Ato i shërbejnë oktapodit për të notuar nën ujë apo për të kapur gjëra të ndryshme. Oktapodi është një kafshë shumë inteligjente. Janë gjetur fosile të oktapodit që tregojnë se lloji i tij ka jetuar para 300 milionë vjetësh."
     },
     "164.webp": {
-        "title":"Letër muri",
+        "title": "Letër muri",
         "text": "Këtu kemi një letër muri me figura të përsëritura të kafshëve, si elefanti, kali i Nilit dhe një kafshë me veshë të mëdhenj e sy të hapur plot kureshtje."
     },
     "165.webp": {
-        "title":"Shokët e gjyshit",
+        "title": "Shokët e gjyshit",
         "text": "Këtu janë të vizatuar dy nxënës duke shkruar në fletoret e tyre. Uniformat e tyre duket të jenë nga fillimet e shekullit të kaluar. Edhe bankat dhe karriget kanë shumë detaje, gjë që ishte e zakonshme në atë kohë. Vizatimi është bërë me ngjyrë shkrimi, duke hequr vija më të theksuara apo më të zbehta me penë."
     },
     "166.webp": {
-        "title":"Pushimi pas lojës",
+        "title": "Pushimi pas lojës",
         "text": "Këtu kemi siluetat dy fëmijëve të ulur në një stol. Anash tyre ka gardh me dërrasa dhe një pemë e re me një shtëpizë zogjësh në majë. Dy gjethe në formë zemrash fluturojnë me erën."
     },
     "167.webp": {
-        "title":"Dielli i hareshëm",
+        "title": "Dielli i hareshëm",
         "text": "Ky është një ilustrim i diellit. Ai është paraqitur si fytyrë njeriu me sy të ngazëlluar, hundë, faqe e gojë të buzëqeshur dhe me krahë të hapur, sikur do të na përqafojë. Rrezet e diellit duken si petale të lulediellit, apo si leshrat e një luani."
     },
     "169.webp": {
-        "title":"Dielli i hutuar",
+        "title": "Dielli i hutuar",
         "text": "Edhe këtu ka një ilustrim të diellit, që duket si fytyra e një foshnjeje kureshtare apo të habitur."
     },
     "170.webp": {
-        "title":"Luajmë me top",
+        "title": "Luajmë me top",
         "text": "Ky ilustrim paraqit siluetat e një familjeje duke luajtur jashtë me top. Në anën e majtë duken nëna me birin e bijën, në të djathtën babai. Konturat tregojnë se babai e biri kanë veshur pantallona të shkurta, ndërsa nëna e bija fustane."
     },
     "171.webp": {
-        "title":"Ylberi si urë",
+        "title": "Ylberi si urë",
         "text": "Këtu duket një ylber me shtatë ngjyra të ndryshme, që fillon në një re dhe përfundon në një re tjetër."
     },
     "174.webp": {
-        "title":"Mmmm... ëmbëlsira",
+        "title": "Mmmm... ëmbëlsira",
         "text": "Një nënë apo ndoshta dado, ka gatuar një ëmbëlsirë. Ajo do ta vërë ëmbëlsirën mënjanë, mbase që të ftohet, apo deri sa të kthehet babai nga puna, por fëmijët duan medoemos të hanë menjëherë. Edhe qenushi i vogël duket të jetë shqetësuar bashkë me fëmijët."
     },
     "175.webp": {
-        "title":"Familja në bregdet",
+        "title": "Familja në bregdet",
         "text": "Në planin e parë duken hijet e prindëve dhe dy fëmijëve të tyre. Prapa tyre duket deti dhe qielli i skuqur nga dielli në perëndim e sipër."
     },
     "176.webp": {
@@ -141,18 +141,18 @@ const Tekstet = {
     },
     "196.jpeg": {
         "title": "Meduzat fluturuese",
-        "text":"Arta pa një ëndërr të çuditshme. Ishte në mes të një are të lëruar dhe nga plasat e tokës dilnin meduza  ngjyrëbukura të cilat fluturonin përpjetë drejt qiellit. Sa me dëshirë donte ta kapte një me dorë, por kishte frikë se mund të helmohej."
+        "text": "Arta pa një ëndërr të çuditshme. Ishte në mes të një are të lëruar dhe nga plasat e tokës dilnin meduza  ngjyrëbukura të cilat fluturonin përpjetë drejt qiellit. Sa me dëshirë donte ta kapte një me dorë, por kishte frikë se mund të helmohej."
     },
     "197.webp": {
-        "title":"Torta e ditëlindjes",
+        "title": "Torta e ditëlindjes",
         "text": "Zana feston sot ditëlindjen e pestë. Nëna e saj ka gatuar një tortë të bukur, të mbuluar me kremë të bardhë dhe të dekoruar me qershi të kuqe rreth e përqark. Mbi tortë ka vënë pesë qirinj, nga një për çdo vit të jetës së Zanës. Gjatë festës më vonë, Zana do të fryjë me gjithë fuqinë për t'i shuar qirinjtë e ndezur mbi tortë. Zanës i pëlqejnë tortat e së ëmës."
     },
     "198.webp": {
-        "title":"Kurorë lulesh",
+        "title": "Kurorë lulesh",
         "text": "Kjo këtu është një kurorë lulesh me fjongo mëndafshi. Atë e thuri Drita, kushërira e vogël e Isait. Drita ka një dashuri për punëdore. Ajo lexon dhe shikon me kënaqësi libra e video me udhëzime praktike e shembuj për punëdore në internet. Për kurorën në fotografi, ajo mblodhi lulet vetë, ndërsa fjongot ia qepi nëna."
     },
     "199.webp": {
-        "title":"Zana e vogël",
+        "title": "Zana e vogël",
         "text": "Kjo këtu është Gurrëftohta, një zanë e vogël nga Bjeshkët e Nemuna. Ajo, sikur motrat dhe shoqet e saj, është e vogël sa pëllëmba e një fëmije të vogël të njeriut. Kur kalojnë njerëzit nëpër bjeshkë, ajo fshihet nën gjethe të luleve se ka frikë mos e shkelin padashje. Gurrëftohtës i pëlqen të luajë e të fluturojë me krahët e saj vezullues nëpër kurorat e lisave. Kur të shkosh në pyll me prindërit, mos bëj shumë zhurmë se ndoshta ua prish gjumin shoqeve të Gurrëftohtës."
     },
     "201.webp": {
@@ -164,7 +164,7 @@ const Tekstet = {
         "text": "Fatosi ka një vit që shkon në çerdhe. Ah, ju e quajtkeni kopsht? Epo, dikush i thotë ashtu, dikush kështu. Fatosi luan aty me shokë e shoqe dhe me edukatoren. Nganjëherë këndojnë këngë fëmijësh, nganjëherë shëtisin në pyllin e afërt e shpeshherë vizatojnë dhe pikturojnë. Dje Fatosi pikturoi veten, nënën, babain dhe motrën e tij. Edukatorja e vari pikturën e Fatosit në murin e çerdhes për ta parë të gjithë."
     },
     "203.webp": {
-        "title":"Ku jetojnë shkronjat?",
+        "title": "Ku jetojnë shkronjat?",
         "text": "A e ke pyetur ndonjëherë veten, vallë ku jetojnë shkronjat, ku flenë ato? Nëse nuk e ke gjetur, të tregoj unë tani. Shkronjat gjithmonë kanë lindur në majë të pendës dhe kanë jetuar nëpër letra, fletore, gazeta e sidomos nëpër libra. Atyre u pëlqen të shtrihen në faqe të letrës, të rreshtuara nëpër rreshta. Aty ato flenë deri sa dikush t'i shfletojë dhe t'ua prishë gjumin. Atëherë ato i tregojnë lexuesit aq shumë gjëra interesante. Ti a ke ndonjë libër me shkronja?"
     },
     "205.jpeg": {
@@ -193,7 +193,7 @@ const Tekstet = {
     },
     "212.webp": {
         "title": "Xhumbo",
-        "text":"Ky elefant i vogël quhet Xhumbo. Xhumbos i pëlqen shumë të aktrojë sikur aktorët e mëdhenj të filmit. Ëmbëlsirat i pëlqejnë edhe më shumë. Mmmm sot është shumë i gëzuar që do të hajë puding me shije dredhëze."
+        "text": "Ky elefant i vogël quhet Xhumbo. Xhumbos i pëlqen shumë të aktrojë sikur aktorët e mëdhenj të filmit. Ëmbëlsirat i pëlqejnë edhe më shumë. Mmmm sot është shumë i gëzuar që do të hajë puding me shije dredhëze."
     },
     "213.webp": {
         "title": "Valle rreth botës",
@@ -212,543 +212,535 @@ const Tekstet = {
         "text": "Në këtë fotografi, duken dhjetëra njerëz duke bërë gjëra të ndryshme. Disa rrinë, disa ecin, disa të tjerë luajnë... <br>Provo të gjesh se çfarë bën secili prej tyre!"
     },
     "3.jpeg": {
-        "title":"Loja në park",
+        "title": "Loja në park",
         "text": "Në ilustrim duken tri veta; një djalë dhe dy vajza. Ata janë duke luajtur në një park afër një lisi dhe ca shkurresh. Çuni ka një raketë lodër në dorë. Duket se ka erë që i bart gjethet e drunnjëve, bile në sfond duket një re dhe ca pika shiu. Mbase është vjeshtë."
     },
     "4.jpeg": {
-        "title":"Nëna me fëmijët",
+        "title": "Nëna me fëmijët",
         "text": "Mali i vogël ka filluar sivjet klasën e parë. Ai shkon në shkollën e njëjtë ku shkon edhe motra e tij më e madhe Suta. Ata jetojnë në Pejë, afër xhaxhallarëve të babait të tyre, Agimit. Nëna e tyre ka lindur në Kenia dhe quhet Chepkirui. Kur Agimi e njohu atë me prindërit e tij, ata e kishin vështirë ta thërrasin saktë. Me kohë filluan ta quajnë më shkurt, Kira. Chepkiruit i pëlqeu emri i ri. Sot Kira i mori fëmijët e saj nga shkolla. Si Suta, ashtu edhe Mali flasin edhe shqip edhe suahili."
     },
     "6.webp": {
-        "title":"Nxito për në shkollë",
+        "title": "Nxito për në shkollë",
         "text": "Dardani e Artana janë vëlla e motër bineq. Ata shkojnë në klasën e parë. Dardani ka flokë të shkurtër, rroba e këpucë të kaltra dhe një çantë të gjelbër të shpindës. Artana mban flokët të gërshetuara në dy bishtaleca me fjongo në majë. Ajo ka një fustan të bukur ngjyrë portokalli dhe këpucë të kuqe. Çanta e saj i përshtatet me ngjyrë këpucëve të saj. Të dytë e kanë bërë një model të lapsit nga kartoni dhe janë kureshtarë se a do t'i pëlqejë puna e tyre mësuesit."
     },
     "9.webp": {
-        "title":"Paradë mode",
+        "title": "Paradë mode",
         "text": "Këta zogjtë kanë vendosur të mbajnë një paradë mode. Ata parakalojnë me mendjemadhësi para zogjve të interesuar, duke ndërruar secilën herë ngjyrën e puplave të tyre. Kur arrijnë te fundi i pistës, ata ndalen për një çast, shikojnë publikun dhe me elegancë kthehen mbrapa. Nga aty ata shkojnë prapa skenës, për t'u përgaditur për daljen e radhës."
     },
     "10.webp": {
-        "title":"Modele flokësh",
+        "title": "Modele flokësh",
         "text": "Floktarja e lagjes sonë, zonja Kumrie, ka mësuar zanatin e prerjes së flokëve në Paris të Francës. Ajo një herë pati treguar se çdo fytyre i përshtatet një prerje tjetër e flokëve. Njerëzit nuk e kishin të qartë sqarimin e saj, se nuk kishin kryer zanatin në Paris të Francës. Për atë, zonja Kumrie, vuri përskaj pasqyreve të saj këtë fotografinë me njerëz me fytyra e prerje të ndryshme flokësh. Tani secili e ka më lehtë të gjejë se cila prerje i shkon më bukur për fytyre."
     },
     "12.webp": {
-        "title":"Libri",
+        "title": "Libri",
         "text": "Libri ka më shumë se shkronja e fotografi. Ai ka një tregim që të çon anembanë botës, të çon në kohëra të kaluara apo edhe të ardhme, të fut në midis të aventurave e përjetimeve më interesante, të bën dëshmitar të ngjarjeve më heroike që mund të trillojë imagjinata. Libri është si një shok që nuk të lë në baltë. Ai të ndihmon të bëhesh më i mençur, më i kuptueshëm e më i ngritur."
     },
     "13.webp": {
-        "title":"Fluturo, fluturo!...",
+        "title": "Fluturo, fluturo!...",
         "text": "Muajin e kaluar Drita bashkë me nënën dhe vëllain e saj kishin fluturuar nga Prishtina për në Frankfurt të Gjermanisë. Pas një jave qëndrimi, ata fluturuan mbrapa. Në fillim Drita kishte pak frikë, por pastaj iu hoq frika dhe tërë rrugës i shikonte retë e bardha si pambuku dhe majet e maleve. Asaj i pëlqente shumë fluturimi. Mbrëmë ajo pa një ëndërr fantastike. Ajo fluturonte lart mbi re, edhe më lart se shqiponjat. Kur i doli gjumi, ajo i mbyllte ende sytë se nuk donte që ëndrra e mirë të përfundonte."
     },
     "14.jpeg": {
-        "title":"Lundrimi në hapësirë",
+        "title": "Lundrimi në hapësirë",
         "text": "Tre shokë imagjinojnë fluturimin e tyre në hapësirat e pafund të kozmosit. Ata duhet të mbajnë skafandra në kokë dhe rroba të posaçme, meqë atje lart nuk ka ajër dhe bën shumë ftohtë. Gjatë lundrimit të tyre, ata shohin yje, planete e mjegullnaja dhe takojnë jashtëtokësorë të vegjël me të cilët luajnë. Imagjinata të shpie atje ku askush nuk ka qenë më parë."
     },
     "15.webp": {
-        "title":"Barka me vel",
+        "title": "Barka me vel",
         "text": "Tina jeton në një fshat të vogël në bregdet. Babai i saj është peshkatar. Ai ka një barkë me një vel. Tinës i pëlqen shumë kur lundrojnë bashkë me babain në det. Ata e hapin velin, që era t'ua shtyjë barkën. Kur fryen erë pak më e fortë, e tërë barka tundet mbi ujë. Tina nuk ka frikë se e ka babain afër."
     },
     "16.webp": {
-        "title":"Roboti Kutiar",
+        "title": "Roboti Kutiar",
         "text": "Fidani e kishte ëndërruar disa herë para ca muajsh një robot. Një mëngjes, ai e vizatoi një skicë të robotit. Babai i Fidanit, që punon si axhustator, kishte marrë atë skicë dhe në fshehtësi ia kishte ndërtuar robotin Fidanit. Dje Fidani festoi ditëlindjen dhe u gëzua pa masë, kur babai e nëna ia dhuruan robotin e ëndrrave. Meqë ky ishte i ndërtuar nga shumë kuti ngjyrë ari, vendosën ta quajnë Kutiar."
     },
     "17.webp": {
-        "title":"Dorina",
+        "title": "Dorina",
         "text": "- Oooo Enes, po ti e paske një kalë të bukur, dori! Si e quajnë kalin tënd? - pyet daja Enesin e vogël. <br>- Nuk është kalë, është pelë dhe quhet Dorina. - ia kthen Enesi dajës dhe vazhdon të luajë."
     },
     "19.webp": {
-        "title":"Ariu polar",
+        "title": "Ariu polar",
         "text": "Ky ariu polar me qime të bardhë, ka vendosur ta vizitojë kushëririn e tij, Arushin e Murrmë që jeton në Bjeshkët e Nemuna. Atij i duhet pasaporta me fotografi, se përndryshe nuk e kalon dot kufirin. Fotografja i tha se një shall i rri bukur rreth qafës, por gjuhën nuk bën ta mbajë jashtë gojës."
     },
     "20.webp": {
-        "title":"Qenushi i habitur",
+        "title": "Qenushi i habitur",
         "text": "Trimi i ka mësuar qenushit të tij fjalët ulu, ngritu, ec, rrotullohu dhe leh. Çdo ditë qenushi e dëgjon Trimin me vëmendje dhe zbaton me përpikmëri urdhërat e tij. Sot erdhi Genti, shoku i Trimit. Genti mëson ngapak anglisht. Ai i tha qenushit \"sit!\", që në anglishte do të thotë ulu. Qenushi u struk i frikësuar se nuk e kuptoi. <br>-Po pse s'më flet shqip ky?! - mendoi qenushi me vete."
     },
     "21.jpeg": {
-        "title":"",
-        "text": ""
+        "title": "Rrështqitja me patina",
+        "text": "Qe tri ditë e tri netë bie borë pa ndalje. Bën ftohtë jo vetëm natën por edhe gjatë ditës. Hurdha në zabel ka vënë një shtresë akulli të trashë. Pas mbarimit të mësimit, klasa e Lules morën patinat dhe shkuan te hurdha për të rrëshqitur. Të gjithëve u janë skuqur hundët e veshët. Fëmijët vërtet kënaqen kur vjen dimri."
     },
     "22.webp": {
-        "title":"",
-        "text": ""
+        "title": "Gjirafa me rrota",
+        "text": "Kjo këtu është një gjirafë lodër nga plastika. Ajo ka trup të ngjyrosur me ngjyra të ndryshme, ka disa unaza në qafë dhe katër rrota në vend të këmbëve. Gjirafat e vërteta kanë lëkurë të verdhë me pulla të zeza. Falë qafës dhe këmbëve shumë të gjata, gjirafat mund të mbërrijnë gjethet më të larta të drunjëve, ku kafshët tjera nuk arrijnë dot."
     },
     "23.jpeg": {
-        "title":"",
-        "text": ""
+        "title": "Letra e murit",
+        "text": "Gjyshja Kadë ishte javën e kaluar te motra e saj. Ndërkohë gjyshi kishte blerë letra të reja të murit dhe i kishte vënë ato në muret e dhomës. Gjyshja Kadë u gëzua shumë kur i pa letrat e reja të murit. Asaj i pëlqen shumë motivi me lulet në saksi."
     },
     "24.webp": {
-        "title":"",
-        "text": ""
-    },
+        "title": "Fëmijët e lagjes",
+        "text": "Mësuesja u kishte dhënë fëmijëve për detyrë shtëpie të vizatojnë një temë sipas dëshirës së tyre. Punimi i Fjollës i pëlqeu posaçërisht. Fjolla kishte vizatuar fëmijët e lagjes me të cilët luan qëkur e mban mend. \"Do t'ia jap notën më të mirë\" mendoi mësuesja me vete.",
+    },    
     "25.webp": {
-        "title":"",
-        "text": ""
+        "title": "Luhatësja te bliri",
+        "text": "Baca Xhemë kënaqet kur sheh fëmijët të kënaqen. Ai dje lidhi një litar të gjatë në degët e blirit të madh. Në fund ia lidhi një dërrasë që fëmijët të mund të uleshin gjatë luhatjes. Sot pas shkollës, të gjithë fëmijët e lagjes erdhën te bliri për tu luhatur."
     },
     "26.webp": {
-        "title":"",
-        "text": ""
-    },
-    "27.webp": {
-        "title":"",
-        "text": ""
-    },
-    "28.webp": {
-        "title":"",
-        "text": ""
+        "title": "Arbi e motrat",
+        "text": "Arbi ka dy motra, Elmën dhe Dritën. Ai i do shumë ato. Dje ai vizatoi veten dhe dy motrat me laps dhe ngjyra. Nëna e Arbit e ngjiti vizatimin e tij në derën e frigoriferit."
     },
     "32.jpeg": {
-        "title":"",
-        "text": ""
+        "title": "Gara e vrapimit",
+        "text": "Sportistë e sportiste nga e tërë bota, kanë ardhur në garat e vrapimit në Gjakovë. Vrapuesja nga Irlanda dhe vrapuesi nga Maroku luftojnë për vendin e parë. Vrapuesit tjerë i ndjekin nga prapa."
     },
     "34.webp": {
-        "title":"",
-        "text": ""
+        "title": "Dy motrat dhe yjet",
+        "text": "Shkurta dhe Mira janë motra binjake. Ato shkojnë në klasën e parë. Gjatë ditës ato mësojnë e luajnë së bashku. Netëve pa re, ato ulen në verandë dhe i vrojtojnë yjet. Kur shohin ndonjë yll fluturues, ato shpejteshpejt mendojnë një dëshirë. Dikush u ka thënë se dëshirat e shprehura kur shihet një yll fluturues do t'u plotësohen."
     },
     "35.webp": {
-        "title":"",
-        "text": ""
+        "title": "Valle siluetash",
+        "text": "Agroni ka mësuar një mjeshtri interesante. Ai palos një letër të zezë disa herë dhe pastaj me një brisk shumë të mprehtë pren figura të ndryshme në letër. Kur pastaj e shpalos letrën, shfaqen figurat e lidhura me njëra tjetrën. Kjo këtu është një vepër e Agronit. Duket sikur siluetat e disa vallëtarëve lozonjarë."
     },
     "36.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "37.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "38.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "39.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "40.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "42.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "43.jpeg": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "44.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "45.jpeg": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "46.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "47.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "48.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "49.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "50.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "51.jpeg": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "52.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "53.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "54.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "55.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "56.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "57.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "58.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "59.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "60.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "61.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "62.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "63.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "64.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "65.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "66.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "67.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "68.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "69.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "70.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "71.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "72.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "73.jpeg": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "74.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "75.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "76.jpeg": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "77.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "78.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "79.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "80.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "81.jpeg": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "82.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "83.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "84.jpeg": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "85.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "86.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "87.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "88.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "89.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "90.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "91.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "92.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "93.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "95.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "96.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "97.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "98.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "99.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "100.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "101.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "102.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "103.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "104.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "105.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "106.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "107.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "108.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "109.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "110.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "111.jpeg": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "112.jpeg": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "113.jpeg": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "114.jpeg": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "115.jpeg": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "116.jpeg": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "117.jpeg": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "118.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "119.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "120.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "121.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "122.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "123.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "125.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "126.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "127.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "128.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "129.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "130.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "132.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "133.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "134.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "135.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "136.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "137.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "138.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "139.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "140.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "141.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "142.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "143.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "144.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "145.png": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "146.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "147.jpeg": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "148.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "150.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "151.webp": {
-        "title":"",
+        "title": "",
         "text": ""
     },
     "152.webp": {
@@ -772,7 +764,7 @@ const card = `
   <h1 class="text-3xl text-gray-700 my-3">{title}</h1>
     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
       <a  @click="open = ! open"
-        class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-amber-700 rounded-lg hover:bg-amber-800 focus:ring-4 focus:outline-none focus:ring-amber-300 dark:bg-amber-600 dark:hover:bg-amber-700 dark:focus:ring-amber-800">        
+        class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-amber-700 rounded-lg cursor-pointer hover:bg-amber-800 focus:ring-4 focus:outline-none focus:ring-amber-300 dark:bg-amber-600 dark:hover:bg-amber-700 dark:focus:ring-amber-800">        
         <span x-show="!open">shfaqe përshkrimin</span>
         <span x-show="open">fshihe përshkrimin</span>
         <svg aria-hidden="true" class="w-4 h-4 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20"
