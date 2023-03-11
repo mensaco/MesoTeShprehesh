@@ -300,68 +300,68 @@ const Tekstet = {
         "text": "Agroni ka mësuar një mjeshtri interesante. Ai palos një letër të zezë disa herë dhe pastaj me një brisk shumë të mprehtë pren figura të ndryshme në letër. Kur pastaj e shpalos letrën, shfaqen figurat e lidhura me njëra tjetrën. Kjo këtu është një vepër e Agronit. Duket sikur siluetat e disa vallëtarëve lozonjarë."
     },
     "36.webp": {
-        "title": "",
-        "text": ""
+        "title": "Kartolina e Zefit",
+        "text": "Zefit i pëlqejnë shumë gjëra. I pëlqejnë ngjyrat, i pëlqejnë format dhe materialet. Atij i pëlqen arti e puna e dorës. Sot heret mori ca letra me ngjyrë, gërshërët dhe ngjitësin. Me gërshërë preu disa letra me ngjyrë në formë të balonave, ca të tjera në grimca e shirita dhe disa në formë të drejtkëndëshave. Pastaj ai me ngjitës i ngjiti të gjitha me njëra tjetrën dhe kështu sajoi një kartolinë të bukur."
     },
     "37.webp": {
-        "title": "",
-        "text": ""
+        "title": "Në orbitë",
+        "text": "Lart mbi kokat tona, sillen satelitët me shpejtësi marramendëse. Ata rrotullohen rreth tokës nëpër rrugët që quhen orbita. Kur astronautët ngjiten lart deri tek orbitat e satelitëve, ata nuk ndiejnë tërheqjen e tokës, por duket sikur notojnë në hapësirë pa peshë. Flokët e tyre shtrihen dhe ata sikur humbasin ndjenjën ku është lart e ku është poshtë. Duhet të jetë shumë kënaqësi të lundrosh i papeshë."
     },
     "38.webp": {
-        "title": "",
-        "text": ""
+        "title": "Dërrasa e bardhë",
+        "text": "Këta fëmijë duket sikur e bartin një dërrasë të madhe të bardhë. Në dërrasë të bardhë mund të shkruash me lapsa me ngjyrëra të ndryshme. Çka do të shkruaje ti në atë dërrasë të bardhë?"
     },
     "39.webp": {
-        "title": "",
-        "text": ""
+        "title": "Fitorja",
+        "text": "Miri e Mira morën pjesë në garat e shkrimit e leximit. Ata lexuan e shkruan më mirë se të gjithë garuesit tjerë. Kështu e fituan vendin e parë në gara. Për këtë morën një laps gjigant dhe një dëftesë të fitores si dhuratë."
     },
     "40.webp": {
-        "title": "",
-        "text": ""
+        "title": "Librat dhe karficat",
+        "text": "Në këtë foto duken tre libra dhe katër karfica. Librat janë njësoj të trashë, por kanë ngjyra të ndryshme, sikur edhe karficat."
     },
     "42.webp": {
-        "title": "",
-        "text": ""
+        "title": "Zemra në dorë",
+        "text": "Në vizatim duket një dorë që mban një zemër. Zemra e vërtetë duket pak më ndryshe, por zakonisht vizatohet si këtu në këtë vizatim. Zakonisht zemra simbolizon dashurinë. Pra duket sikur vizatimi thotë, \"ta jap zemrën, aq shumë të dua\"."
     },
     "43.jpeg": {
-        "title": "",
-        "text": ""
+        "title": "Meri Popins",
+        "text": "Në vizatim duket një dado me disa fëmijë të vegjël dhe një mace të zezë. Është dadoja magjike që quhet Meri Popins. Ajo mban një kësulë magjistarësh në kokë dhe u lexon fëmijëve tregime interesante nga libri i saj."
     },
     "44.webp": {
-        "title": "",
-        "text": ""
+        "title": "A B C",
+        "text": "Fëmijët gëzohen shumë kur ia arrijnë t'i mësojnë shkronjat e abëcësë. Vetëm atëherë ata mund të kridhen në botën e librave dhe të lexojnë mbi aventurat e pafundme në to."
     },
     "45.jpeg": {
-        "title": "",
-        "text": ""
+        "title": "Goca dhe çuni piktor",
+        "text": "Ky çuni ka shumë qejf të shprehet përmes vizatimeve. Ai ëndërron të bëhet piktor kur të rritet. Këtu ai e vizaton një zemër të madhe të kuqe të rrethuar me rreze me ngjyrë të zezë. Ai këtë zemër ia kushton gocës së vogël, që e admiron punën e tij."
     },
     "46.webp": {
-        "title": "",
-        "text": ""
+        "title": "Kopertina e albumit",
+        "text": "Për albumin tonë të fotografive, vendosëm ta bëjmë një kopertinë pak më domethënëse. Prandaj e bëmë një fotografi në të cilën dukemi të gjithë anëtarët e familjes, duke filluar që nga babai e nëna, e deri te Liza e vogël. Këtë fotografi e premë në gjerësi të albumit dhe e ngjitëm me ngjitës. Tani albumi duket më i bukur."
     },
     "47.webp": {
-        "title": "",
-        "text": ""
+        "title": "Luhatësja",
+        "text": "Rinorit ia kanë blerë prindërit një luhatëse. Ata e kanë vënë luhatësen në kopsht, por ende nuk i kanë treguar Rinorit. Ai ka nesër ditëlindjen dhe ata duan që ta befasojnë me dhuratën e papritur."
     },
     "48.webp": {
-        "title": "",
-        "text": ""
+        "title": "Lino",
+        "text": "Ky është një arush që jeton në pyjet e Norvegjisë. Zana e kishte parë një herë kur ishte te tezja e saj, e cila jeton atje larg. Ajo ia vuri atij emrin Lino. Kur u kthye në Gjilan, Zana e vizatoi Linon që t'ia tregojë gjyshes së saj."
     },
     "49.webp": {
-        "title": "",
-        "text": ""
+        "title": "Fëmijët e çerdhes",
+        "text": "Sot në mëngjes kaloi një kamion zjarrfikës afër çerdhes së fëmijëve. Ata ishin duke luajtur jashtë dhe kur dëgjuan zërin e sirenës, vrapuan plot kureshtje te muri i oborrit të çerdhes."
     },
     "50.webp": {
-        "title": "",
-        "text": ""
+        "title": "Vallja rreth e rrotull",
+        "text": "Agroni nuk pushon së preri figura nga letra. Ai me durim të madh preu nga letra e zezë shumë valltarë duke vallëzuar në një rreth të madh."
     },
     "51.jpeg": {
-        "title": "",
-        "text": ""
+        "title": "Piktura abstrakte",
+        "text": "Në këtë pikturë duket një kodër në formë të një fytyre me një lis të madh në ballë. Në qiell duket një re e bardhë në formë të zemrës. Në jetë të vërtetë këso gjëra nuk ka. Por në imagjinatën e piktorit ka edhe kodra-fytyra dhe re-zemra. "
     },
     "52.webp": {
-        "title": "",
-        "text": ""
+        "title": "Buzëqeshkat",
+        "text": "Luli kishte parë një pullë me dy pika dhe një hark që dukej si fytyra e një fëmije të buzëqeshur. Vëllai i madh i tha se ishte një ''smajli''. Luli nuk e kuptoi. Janë buzëqeshka ia sqaroi vëllai i madh. Luli këtë e kuptoi. Ai mori gërshërët dhe një laps e i bëri plot buzëqeshka nga letrat me ngjyra."
     },
     "53.webp": {
         "title": "",
