@@ -363,93 +363,29 @@ const Tekstet = {
         "title": "Buzëqeshkat",
         "text": "Luli kishte parë një pullë me dy pika dhe një hark që dukej si fytyra e një fëmije të buzëqeshur. Vëllai i madh i tha se ishte një ''smajli''. Luli nuk e kuptoi. Janë buzëqeshka ia sqaroi vëllai i madh. Luli këtë e kuptoi. Ai mori gërshërët dhe një laps e i bëri plot buzëqeshka nga letrat me ngjyra."
     },
-    "53.webp": {
-        "title": "",
-        "text": ""
-    },
-    "54.webp": {
-        "title": "",
-        "text": ""
-    },
     "55.webp": {
-        "title": "",
-        "text": ""
+        "title": "Panda i vogël",
+        "text": "Kjo kafshë e vogël është një panda. Panda është një lloj ariu që jeton në Kinën e largët dhe ushqehet kryesisht me gjethet e një bime që quhet bambus. Ky panda i vogël në foto ende nuk ka mësuar të hajë gjethet e bambusit. Ai ushqehet me qumështin e nënës së vet."
     },
     "56.webp": {
-        "title": "",
-        "text": ""
+        "title": "Trotineti",
+        "text": "A ju kujtohet Omeri, që kishte vizatuar trotinetin e tij? Epo ai dje ka vazhduar punën e tij artistike. Vizatimin që e kishte bërë më parë, ai e pasuroi me ngjyrë të kuqe. Dërrasën ku shkel e bëri me të kuqe pak më të errët."
     },
     "57.webp": {
-        "title": "",
-        "text": ""
-    },
-    "58.webp": {
-        "title": "",
-        "text": ""
+        "title": "Tullumbacja e Dorës",
+        "text": "Dora i ka shumë qejf tullumbacet. Ajo luan me to tërë ditën. Dje para gjumit, papritmas i pëlciti tullumbacja në dorë. Ajo fillimisht u frikësua nga pëlcitja e papritur, pastaj qau se u mërzit. Sot që në mëngjes babai ia solli një tullumbace të re, të mbushur me helium. Dora duhet ta mbajë tullumbacen për peri, përndryshe ajo do t'i ikë e të fluturojë përpjetë, drejt qiellit."
     },
     "59.webp": {
-        "title": "",
-        "text": ""
-    },
-    "60.webp": {
-        "title": "",
-        "text": ""
-    },
-    "61.webp": {
-        "title": "",
-        "text": ""
-    },
-    "62.webp": {
-        "title": "",
-        "text": ""
-    },
-    "63.webp": {
-        "title": "",
-        "text": ""
-    },
-    "64.webp": {
-        "title": "",
-        "text": ""
-    },
-    "65.webp": {
-        "title": "",
-        "text": ""
-    },
-    "66.webp": {
-        "title": "",
-        "text": ""
-    },
-    "67.webp": {
-        "title": "",
-        "text": ""
-    },
-    "68.webp": {
-        "title": "",
-        "text": ""
-    },
-    "69.webp": {
-        "title": "",
-        "text": ""
-    },
-    "70.webp": {
-        "title": "",
-        "text": ""
-    },
-    "71.webp": {
-        "title": "",
-        "text": ""
-    },
-    "72.webp": {
-        "title": "",
-        "text": ""
+        "title": "Uji i gazuar",
+        "text": "Buqja me shokët e shoqet e saja, sot mësuan shumë gjëra mbi ujin e gazuar. Mësuesja u tregoi se si dhe përse krijohen flluskat e ajrit brenda ujit të tillë. Ishte interesant për të gjithë, të mësojnë se sa shumë punë bëhet, vetëm për të kënaqur shijen e blerësve të ujit të gazuar."
     },
     "73.jpeg": {
-        "title": "",
-        "text": ""
+        "title": "Dy zanat e vogla",
+        "text": "Në këtë pikturë të bukur duken dy zana të vogla duke luajtur pa brenga në një pyll të dendur. Zakonisht zanat paraqiten si goca me madhësi sa pëllëmba e dorës, shpeshherë me lapra veshësh me majë. Si mendon ti, a ekzistojnë zanat vërtet?"
     },
     "74.webp": {
-        "title": "",
-        "text": ""
+        "title": "Helika e Gimit",
+        "text": "Gimi kishte parë para ca ditësh një çupë duke luajtur me një helikë letre të ngulitur në skajin e një shkopi. Sa i pëlqeu rrotullimi i helikës në erë. Sa qejf pati ta kishte edhe vetë një të tillë për të luajtur. Ai tërë ditën foli vetëm për helikën që kishte parë. Arta, motra e tij e madhe ia bëri fëtefët një helikë nga letra me ngjyra dhe një shkop druri. O sa shumë u gëzua Gimi për lodrën e re."
     },
     "75.webp": {
         "title": "",
