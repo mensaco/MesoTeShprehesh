@@ -699,7 +699,7 @@ const card = `
   <a>
   <h1 class="text-3xl text-gray-700 my-3">{title}</h1>
     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-      <a  @click="open = ! open"
+      <a  @click="open = !open; toggle(open, '{title}');"
         class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-amber-700 rounded-lg cursor-pointer hover:bg-amber-800 focus:ring-4 focus:outline-none focus:ring-amber-300 dark:bg-amber-600 dark:hover:bg-amber-700 dark:focus:ring-amber-800">        
         <span x-show="!open">shfaqe përshkrimin</span>
         <span x-show="open">fshihe përshkrimin</span>
