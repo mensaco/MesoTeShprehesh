@@ -680,9 +680,11 @@ const Tekstet = {
         "text": ""
     },
     "152.webp": {
+        "title":"Trotineti",
         "text": "Ky është një trotinet. Ka timonin me dy dorëza. Dorëzat kapen me duar. Lartësia e timonit mund të rregullohet. Ka dy rrota të kaltra dhe një dërrasë ku vihet njëra këmbë. Me këmbën tjetër shtyejmë trotinetin përpara."
     },
     "153.jpeg": {
+        "title":"Fëmijët dhe globi",
         "text": "Në këtë fotografi duken dy fëmijë të vegjël, një djalë e një vajzë dhe një glob i madh i Tokës para tyre. Çuni ka veshur pantallona të shkurta, goca një fustan pa mëngë. Fëmijët mbajnë njëri-tjetrin për dore. Në prapavi duket hapësira qiellore me yje e mjegullanaja të rralla."
     }
 }
@@ -699,8 +701,8 @@ const card = `
   <a>
   <h1 class="text-3xl text-gray-700 my-3">{title}</h1>
     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-      <a  @click="open = !open; toggle(open, '{title}');"
-        class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-amber-700 rounded-lg cursor-pointer hover:bg-amber-800 focus:ring-4 focus:outline-none focus:ring-amber-300 dark:bg-amber-600 dark:hover:bg-amber-700 dark:focus:ring-amber-800">        
+      <a @click="open = !open; toggle(open, '{title}');"
+        class="inline-flex items-center px-3 py-2 text-base font-medium text-center text-white bg-amber-700 rounded-lg cursor-pointer hover:bg-amber-800 focus:ring-4 focus:outline-none focus:ring-amber-300 dark:bg-amber-600 dark:hover:bg-amber-700 dark:focus:ring-amber-800">        
         <span x-show="!open">shfaqe përshkrimin</span>
         <span x-show="open">fshihe përshkrimin</span>
         <svg aria-hidden="true" class="w-4 h-4 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20"
@@ -712,7 +714,7 @@ const card = `
       </a>
     </h5>
   </a>
-  <p x-show="open" class="mb-3 text-lg font-normal text-gray-700 dark:text-gray-400">{text}</p>
+  <p x-show="open" x-transition class="mb-3 text-lg font-normal text-gray-700 dark:text-gray-400">{text}</p>
 
 </div>
 </div>

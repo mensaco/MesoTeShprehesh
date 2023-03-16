@@ -48,12 +48,15 @@ const cards = []
 for (const key in Tekstet) {
     if (Object.hasOwnProperty.call(Tekstet, key)) {
         const title = Tekstet[key].title || "";
-        const text = Tekstet[key].text || "Kërkojmë ndjesë! Për këtë fotografi ende nuk kemi shkruar përshkrimin. Do të mundohemi ta shtojmë sa më shpejt që të jetë e mundur.";
-        cards.push(card
-                            .replace(/\{key\}/g,key)
-                            .replace(/\{title\}/g,title)
-                            .replace(/\{text\}/g,text)
-        )
+        const text = Tekstet[key].text //|| "Kërkojmë ndjesë! Për këtë fotografi ende nuk kemi shkruar përshkrimin. Do të mundohemi ta shtojmë sa më shpejt që të jetë e mundur.";
+        if(text){
+            cards.push(card
+                .replace(/\{key\}/g,key)
+                .replace(/\{title\}/g,title)
+                .replace(/\{text\}/g,text)
+            )
+        }
+        
 
         
     }
