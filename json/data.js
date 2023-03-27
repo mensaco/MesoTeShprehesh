@@ -387,10 +387,6 @@ const Tekstet = {
         "title": "Helika e Gimit",
         "text": "Gimi kishte parë para ca ditësh një çupë duke luajtur me një helikë letre të ngulitur në skajin e një shkopi. Sa i pëlqeu rrotullimi i helikës në erë. Sa qejf pati ta kishte edhe vetë një të tillë për të luajtur. Ai tërë ditën foli vetëm për helikën që kishte parë. Arta, motra e tij e madhe ia bëri fëtefët një helikë nga letra me ngjyra dhe një shkop druri. O sa shumë u gëzua Gimi për lodrën e re."
     },
-    "75.webp": {
-        "title": "",
-        "text": ""
-    },
     "76.jpeg": {
         "title": "",
         "text": ""
