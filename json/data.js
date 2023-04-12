@@ -689,7 +689,7 @@ const Tekstet = {
 const card = `
 <div x-data="{ open: false }" class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 w-full flex flex-col p-3" >
 <div class="relative">
-    <img class="rounded-t-lg z-0 mx-auto" src="/img/{key}" alt="{title}" />    
+    <img class="rounded-t-lg z-0 mx-auto cursor-pointer" src="/img/{key}" alt="{title}"  @click="open = !open; toggle(open, '{title}');" />    
     <a class="absolute text-xs top-2 left-2 z-10 text-gray-300 w-full" href="https://pixabay.com" target="_blank">burimi: pixabay</a>
 </div>
 <div class="flex-1"> </div>
