@@ -25,7 +25,7 @@ const Tekstet = {
     },
     "161.webp": {
         "title": "Aeroplani i kuq",
-        "text": "Këtu kemi të ilustruar një aeroplan i kuq me helikë, të ngjashëm me ata nga Lufta e Dytë Botërore. Aeroplani ka krahë të dyfishtë dhe në ulëse nuk ka pilot. Në bishtin e aeroplanit është shkruar shkronja B. Mbase është nistorja e emrit të pilotit."
+        "text": "Këtu kemi të ilustruar një aeroplan të kuq me helikë, të ngjashëm me ata nga Lufta e Dytë Botërore. Aeroplani ka krahë të dyfishtë dhe në ulëse nuk ka pilot. Në bishtin e aeroplanit është shkruar shkronja B. Mbase është nistorja e emrit të pilotit."
     },
     "162.webp": {
         "title": "Kështu rritemi",
